@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+## CUBIC RUN DEMO
+![caption](https://user-images.githubusercontent.com/48413868/117247450-ddb7cf80-ae5b-11eb-8fdd-02f0a37949ae.gif)
 
-![caption](![CubicRun](https://user-images.githubusercontent.com/48413868/117246406-35553b80-ae5a-11eb-8ea1-e7a612a206a5.gif))
 
+##
 
 
 
