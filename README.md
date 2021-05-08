@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on #Responsive_Website titled Museum Of Candy
+- 🌱 I’m currently learning JavaScript...
+- 📫 How to reach me: pkpatil7745@gmail.com
+
+## Welcome !! 
+
+Have a look 👀 on my Projects .
+
+Make sure to leave a feedback ❤️.
 
 ## MY THIRD YEAR PROJECT
 ## CUBIC RUN 
@@ -19,17 +28,3 @@
 ![caption]( https://user-images.githubusercontent.com/48413868/117250054-45701980-ae60-11eb-9362-aa7abaf18ca6.gif)
 
 
-<!--
-**PratikPatil131/PratikPatil131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
