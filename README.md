@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Kiran Patil</h1>
 <h3 align="center">A Pantomathic Technophile  👨‍💻 from India</h3>
 
-- 🔭 I’m currently working on **Responsive website - Museum of Candy**
+- 🔭 I’m currently working on **Responsive website - Museum of Candy**  --> https://pratikpatil131.github.io/
 
 - 🌱 I’m currently learning **JavaScript**
 
