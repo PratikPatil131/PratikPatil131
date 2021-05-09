@@ -12,7 +12,7 @@
 
 - ▶️ My Youtube Channel - https://www.youtube.com/c/Fluxsama
 
-- 📙 Going to learn - Angular, Node, React . . . .
+- 📙 Next in learning queue - Angular, Node, React . . . .
 
 
 <h3 align="left">Connect with me:</h3>
