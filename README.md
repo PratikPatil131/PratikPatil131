@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+My name is Pratik Patil 
+
+- ▶️ My Youtube Channel - https://www.youtube.com/c/Fluxsama
 - 🔭 I’m currently working on #Responsive_Website titled Museum Of Candy
 - 🌱 I’m currently learning JavaScript...
+- 📙 Going to learn - Angular, Node, React . . . .
 - 📫 How to reach me: pkpatil7745@gmail.com
 
 ## Welcome !! 
