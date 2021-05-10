@@ -14,7 +14,12 @@
 
 - ▶️ My Youtube Channel - **https://www.youtube.com/c/Fluxsama**
 
-- 📙 Next in learning queue - Angular, Node, React any many more ..
+- 📙 Next in learning queue - Angular, Node, React any many more ..]
+
+- 📄 Have a look on my resume - [Pratik_Kiran_Patil_2020.pdf](https://github.com/PratikPatil131/PratikPatil131/files/6452263/Pratik_Kiran_Patil_2020.pdf)
+ 
+
+
 
 
 <h3 align="left">Connect with me:</h3>
