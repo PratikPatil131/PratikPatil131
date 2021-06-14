@@ -49,7 +49,7 @@
 
 ## Welcome !! 
 
-Have a look 👀 on my Projects .
+Take a peek 👀 on my Projects .
 
 Make sure to leave a feedback ❤️.
 
