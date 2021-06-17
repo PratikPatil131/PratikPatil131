@@ -16,7 +16,8 @@
 
 - 📙 Next in learning queue - Angular, Node, React any many more ..]
 
-- 📄 Have a look on my resume - [Pratik_Kiran_Patil_2020.pdf](https://github.com/PratikPatil131/PratikPatil131/files/6452263/Pratik_Kiran_Patil_2020.pdf)
+- 📄 Have a look on my resume - [Pratik_Kiran Patil_2020.pdf](https://github.com/PratikPatil131/PratikPatil131/files/6669016/Pratik_Kiran.Patil_2020.pdf)
+
  
 
 
