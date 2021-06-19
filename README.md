@@ -10,11 +10,13 @@
 
 - 🎯 2021 Goal - Become **A FULL STACK DEVELOPER**
 
-- 📫 How to reach me - **pkpatil7745@gmail.com**
+- 📁 **Portfolio** - https://flowcv.me/pratik-patil-portfolio 
 
-- ▶️ My Youtube Channel - **https://www.youtube.com/c/Fluxsama**
+- 📫 How to reach me - pkpatil7745@gmail.com
 
 - 📙 Next in learning queue - Angular, Node, React any many more ..]
+
+- ▶️ My Youtube Channel - https://www.youtube.com/c/Fluxsama
 
 - 📄 Have a look on my resume - [Pratik_Kiran Patil_2020.pdf](https://github.com/PratikPatil131/PratikPatil131/files/6669016/Pratik_Kiran.Patil_2020.pdf)
 
