@@ -8,13 +8,13 @@
 
 - 💬 Ask me about - **Core Java**
 
-- 🎯 2021 Goal - Become **A FULL STACK DEVELOPER**
+- 🎯 2023 Goal - Become **Certified solution architect**
 
 - 📁 **Portfolio** - https://flowcv.me/pratik-patil-portfolio 
 
 - 📫 How to reach me - pkpatil7745@gmail.com
 
-- 📙 Next in learning queue - Angular, Node, React any many more ..]
+- 📙 Next in learning queue - Aws, Angular, Node, React any many more ..]
 
 - ▶️ My Youtube Channel - https://www.youtube.com/c/Fluxsama
 
