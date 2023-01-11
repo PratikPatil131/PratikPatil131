@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Responsive website - Museum of Candy**  --> https://pratikpatil131.github.io/
 
-- 🌱 I’m currently learning - **JavaScript**
+- 🌱 I’m currently learning - **AWS**
 
 - 💬 Ask me about - **Core Java**
 
