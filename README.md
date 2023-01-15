@@ -18,7 +18,8 @@
 
 - ▶️ My Youtube Channel - https://www.youtube.com/c/Fluxsama
 
-- 📄 Have a look on my resume - [Pratik_Kiran Patil_2020.pdf](https://github.com/PratikPatil131/PratikPatil131/files/6669016/Pratik_Kiran.Patil_2020.pdf)
+- 📄 Have a look on my resume - [Pratik_Kiran Patil_2023.pdf]([Pratik_Kiran_Patil_Resume_2023.pdf](https://github.com/PratikPatil131/PratikPatil131/files/10419742/Pratik_Kiran_Patil_Resume_2023.pdf)
+)
 
  
 
