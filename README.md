@@ -2,23 +2,24 @@
 <h1 align="center">Hi 👋, I'm Pratik Kiran Patil</h1>
 <h3 align="center">A Pantomathic Technophile  👨‍💻 from India</h3>
 
-- 🔭 I’m currently working on **Responsive website - Museum of Candy**  --> https://pratikpatil131.github.io/
+- 🔭 **Responsive website - Museum of Candy**  --> https://pratikpatil131.github.io/
 
-- 🌱 I’m currently learning - **AWS**
+- 🌱 I’m currently learning - **CI/CD & Kubernetes**
 
-- 💬 Ask me about - **Core Java**
+- 💬 Ask me about - **DevOps**
 
-- 🎯 2023 Goal - Become **Certified solution architect**
+- 🎯 2023 Goal - Become **Certified solution architect / devops engineer**
 
 - 📁 **Portfolio** - https://flowcv.me/pratik-patil-portfolio 
 
 - 📫 How to reach me - pkpatil7745@gmail.com
 
-- 📙 Next in learning queue - Aws, Angular, Node, React any many more ..]
+- 📙 Next in the learning queue - terraform, CircleCI and many more ..]
 
 - ▶️ My Youtube Channel - https://www.youtube.com/c/Fluxsama
 
-- 📄 Have a look on my resume - [Pratik_Kiran_Patil_Resume_2023.pdf](https://github.com/PratikPatil131/PratikPatil131/files/10419742/Pratik_Kiran_Patil_Resume_2023.pdf)
+- 📄 Have a look at my resume - [Pratik_Kiran_Patil_Resume_2023.pdf](https://github.com/PratikPatil131/PratikPatil131/files/12873383/Pratik_Kiran_Patil_Resume_2023.pdf)
+)
 
 
  
