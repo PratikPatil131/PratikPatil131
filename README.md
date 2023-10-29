@@ -58,6 +58,11 @@ Take a peek 👀 on my Projects .
 
 Make sure to leave a feedback ❤️.
 
+# Django todo list CICD using Jenkins
+
+![caption]https://github.com/PratikPatil131/django-todo-cicd
+
+### ------------------------------------------------------------------------------------------------------------------------
 # MY THIRD YEAR PROJECT
 ## CUBIC RUN 
 ![caption](https://user-images.githubusercontent.com/48413868/117247450-ddb7cf80-ae5b-11eb-8fdd-02f0a37949ae.gif)
