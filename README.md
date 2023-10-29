@@ -60,7 +60,7 @@ Make sure to leave a feedback ❤️.
 
 # Django todo list CICD using Jenkins
 
-![caption]https://github.com/PratikPatil131/django-todo-cicd
+https://github.com/PratikPatil131/django-todo-cicd
 
 ### ------------------------------------------------------------------------------------------------------------------------
 # MY THIRD YEAR PROJECT
