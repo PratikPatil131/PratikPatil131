@@ -32,9 +32,7 @@
  
   
   
-<a href="https://linkedin.com/in/pratikpatil131" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="pratikpatil131" height="30" width="40" /></a>
-<a href="https://instagram.com/pratikpatilhere" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="pratikpatilhere" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/flux sama" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/youtube-3.svg" alt="flux sama" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pratikpatil131" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="pratikpatil131" height="30" width="40" /></a><a href="https://www.youtube.com/c/flux sama" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/youtube-3.svg" alt="flux sama" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
