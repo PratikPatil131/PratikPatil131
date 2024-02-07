@@ -8,7 +8,7 @@
 
 - 💬 Ask me about - **DevOps**
 
-- 🎯 2023 Goal - Become **Certified solution architect / devops engineer**
+- 🎯 2024 Goal - Become **Certified solution architect / devops engineer**
 
 - 📁 **Portfolio** - https://flowcv.me/pratik-patil-portfolio 
 
