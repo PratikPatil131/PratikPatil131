@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning -  Kubernetes<br> 💬 Ask me about - DevOps<br><br>🎯 2024 Goal - Become Certified solution architect / devops engineer<br><br>📁 Portfolio - https://flowcv.me/pratik-patil-portfolio<br><br>📫 How to reach me - pkpatil7745@gmail.com<br><br>📙 Next in the learning queue - terraform, CircleCI, ArgoCD and many more ..]<br><br>▶️ My Youtube Channel - https://www.youtube.com/c/Fluxsama<br>
+<br>🎯 2024 Goal - Become Certified solution architect / devops engineer<br><br>📁 Portfolio - https://flowcv.me/pratik-patil-portfolio<br><br>📫 How to reach me - pkpatil7745@gmail.com<br><br>📙 Next in the learning queue - terraform, CircleCI, ArgoCD and many more ..]<br><br>▶️ My Youtube Channel - https://www.youtube.com/c/Fluxsama<br>
 
 
 ## 🌐 Socials:
