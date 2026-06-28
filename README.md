@@ -48,7 +48,15 @@
 </p>
 
 ---
+## 🌍 Open Source Contributions
 
+### 🚀 Fastlane
+
+- 🔥 **View all my merged pull requests**
+  - https://github.com/fastlane/fastlane/pulls?q=is%3Apr+is%3Amerged+author%3APratikPatil131
+
+> Contributing to Fastlane by fixing bugs, improving deployment workflows, and enhancing developer experience.
+---
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -108,6 +116,8 @@
 - 🏗️ Infrastructure as Code (Terraform)
 - ⚡ DevSecOps Automation
 
----
+Passionate about contributing to developer tooling and improving the mobile release ecosystem.
+
+--
 
 ⭐️ If you like my work, consider starring one of my repositories!
